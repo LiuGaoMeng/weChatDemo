@@ -69,3 +69,4 @@ If no device is shown in the device list, you can click "Add Device", select "Sc
 
 - The full version Demo
   Currently support device control, message push, add device (distribution network), home module
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.   
